@@ -45,4 +45,4 @@ enable-logging: true
 
 This plugin uses bStats to collect anonymous statistics. This can be disabled in bStats/config.yaml
 
-![bStats](https://bstats.org/signatures/bukkit/YourPluginName.svg)
+![bStats](https://bstats.org/signatures/bukkit/IPWhitelist.svg)
