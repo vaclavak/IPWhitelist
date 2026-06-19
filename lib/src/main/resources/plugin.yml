@@ -1,0 +1,4 @@
+name: IpWhitelist
+version: 1.0
+main: vpp.mc7.vac.ipwhitelist.main.Main
+api-version: '26.1.2'

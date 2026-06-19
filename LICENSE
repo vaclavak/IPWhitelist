@@ -1,0 +1,112 @@
+Source-Available Non-Resale License
+Version 1.0
+
+Copyright (c) 2026 [vaclavak and 7mc Solutions]
+
+================================================================================
+1. DEFINITIONS
+================================================================================
+
+"Software" means the source code, object code, documentation, and any other
+materials distributed under this License.
+
+"You" (or "Your") means any individual or legal entity exercising rights under
+this License.
+
+"Fork" means any copy, modification, derivative work, or adaptation of the
+Software, in whole or in part.
+
+"Commercial Use" means any use of the Software intended for or directed toward
+commercial advantage or monetary compensation.
+
+"Internal Use" means use of the Software (original or a Fork) to operate Your
+own business, products, or services, including for-profit operations, where the
+Software itself is not made available to third parties as a product.
+
+"Sell as a Product" means, with respect to the Software or any Fork, to sell,
+license, sublicense, rent, lease, offer for a fee, or otherwise commercially
+distribute the Software or Fork — in source or binary form — to a third party
+such that the Software or Fork (or access to it) is itself the product or a
+component sold or monetized. This includes, without limitation:
+  (a) selling copies or licenses of the Software or a Fork;
+  (b) offering the Software or a Fork to third parties as a paid hosted,
+      managed, or "as-a-service" offering where the Software's functionality
+      is the substance of what is sold;
+  (c) bundling the Software or a Fork into a product offered to third parties
+      for a fee, where the Software constitutes material value of that product;
+  (d) charging third parties a fee for which access to the Software or Fork is
+      the primary consideration.
+
+================================================================================
+2. GRANT OF RIGHTS
+================================================================================
+
+Subject to the terms and conditions of this License, the copyright holder
+grants You a worldwide, royalty-free, non-exclusive license to:
+
+  2.1  Use, copy, and run the Software for any non-commercial purpose.
+
+  2.2  Create, use, copy, and distribute Forks for any non-commercial purpose.
+
+  2.3  Use the Software or any Fork for Commercial Use solely as Internal Use,
+       including in Your own production infrastructure and for-profit
+       operations, PROVIDED You do not Sell as a Product.
+
+================================================================================
+3. RESTRICTIONS
+================================================================================
+
+  3.1  You may NOT Sell as a Product the Software or any Fork, whether modified
+       or unmodified, in source or binary form.
+
+  3.2  The prohibition in Section 3.1 applies regardless of whether the Fork
+       was created for non-commercial purposes; the moment a Fork is Sold as a
+       Product, this License is violated.
+
+  3.3  Internal Use (Section 2.3) is permitted even where it generates profit,
+       so long as the Software or Fork is not itself Sold as a Product to third
+       parties.
+
+================================================================================
+4. CONDITIONS
+================================================================================
+
+  4.1  All copies and Forks must retain this License, the above copyright
+       notice, and all attribution notices.
+
+  4.2  Modified files must carry prominent notices stating that You changed
+       them.
+
+================================================================================
+5. PERMISSIONS BEYOND THIS LICENSE
+================================================================================
+
+If You wish to Sell the Software or a Fork as a Product, You must obtain a
+separate commercial license from the copyright holder. Contact:
+[YOUR CONTACT EMAIL].
+
+================================================================================
+6. TERMINATION
+================================================================================
+
+Any violation of this License automatically terminates Your rights under it.
+Upon termination, You must cease all use and distribution of the Software and
+all Forks. Sections that by their nature should survive termination shall
+survive.
+
+================================================================================
+7. DISCLAIMER OF WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+================================================================================
+8. LIMITATION OF LIABILITY
+================================================================================
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.

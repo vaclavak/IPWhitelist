@@ -1,0 +1,15 @@
+# IPWhitelist by 7mc solutions
+
+
+#Is IP blocking enabled
+enabled: false
+
+#The kick message that should be shown to the player
+#You can use color codes with the & prefix
+kick-message: "&4You are not allowed on this server!"
+
+#Enable or disable logging failed and successfull login attempts
+enable-logging: true
+
+#List of allowed IPs
+allowed-addresses:
